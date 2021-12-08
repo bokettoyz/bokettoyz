@@ -1,8 +1,5 @@
 ### Hi there I'm Rubén 👋
 
-
-![github_banner](https://user-images.githubusercontent.com/85254943/135859433-79d9d43f-7085-4b5f-adf0-56fdbef86d21.png)
-
 - 🔭 I’m currently working on  **Changing Careers, New Projects, and trying to find my place in Data and Bussiness Analitycs and Web Development.** 
 - 🌱 I’m currently learning ... **HTML, CSS, JS and Python mainly and some other things like Power BI, Git, GitHub and other things I'm interested about.**
 - 👯 I’m looking to collaborate on **Projects I can be useful for, if you think I can colaborate contact me by email rgonzalezmart@outlook.com**
