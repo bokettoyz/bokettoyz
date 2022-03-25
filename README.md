@@ -7,6 +7,3 @@
 - 📫 How to reach me: [Here](https://github.com/bokettoyz), [Twitter](https://twitter.com/boketto_yz) and [Linkedin](https://www.linkedin.com/in/rubengonzalezmartinez/).
 - 🧡 **family, sports and being outdoors.**
 - ⚡ Fun fact: **I've never thought I would be using and being interested and programming, data and technologies as I am**
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bokettoyz&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bokettoyz&langs_count=5&theme=tokyonight)]()
